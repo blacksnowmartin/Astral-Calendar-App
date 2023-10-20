@@ -1,0 +1,12 @@
+<!-- Base application theme -->
+<style name="AppTheme" parent="Theme.AppCompat.DayNight">
+    <!-- Dark mode -->
+    <item name="android:windowIsTranslucent">false</item>
+    <item name="android:windowBackground">@color/background_dark</item>
+    <item name="android:textColor">@color/text_dark</item>
+
+    <!-- Light mode -->
+    <item name="android:windowIsTranslucent">false</item>
+    <item name="android:windowBackground">@color/background_light</item>
+    <item name="android:textColor">@color/text_light</item>
+</style>
