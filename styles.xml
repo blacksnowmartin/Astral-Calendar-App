@@ -4,10 +4,12 @@
     <item name="android:windowIsTranslucent">false</item>
     <item name="android:windowBackground">@color/background_dark</item>
     <item name="android:textColor">@color/text_dark</item>
+    <!-- Add any animation or visual effect styles here -->
 
     <!-- Light mode -->
     <item name="android:windowIsTranslucent">false</item>
     <item name="android:windowBackground">@color/background_light</item>
     <item name="android:textColor">@color/text_light</item>
+    <!-- Add any animation or visual effect styles here -->
 </style>
 <!-- Found in res/values/styles.xml -->
