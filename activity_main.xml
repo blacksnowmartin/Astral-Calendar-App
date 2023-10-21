@@ -3,15 +3,26 @@
     android:layout_height="match_parent"
     android:background="?attr/android:windowBackground">
 
+    <!-- App Logo -->
+    <ImageView
+        android:id="@+id/appLogo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="32dp"
+        android:src="@drawable/app_logo" />
+
+    <!-- Gregorian Date -->
     <TextView
         android:id="@+id/gregorianDate"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_below="@+id/appLogo"
         android:layout_centerHorizontal="true"
-        android:layout_centerVertical="true"
+        android:layout_marginTop="16dp"
         android:textSize="20sp"
         android:fontFamily="@font/gothic_font"
         android:textColor="?attr/android:textColor" />
 
-    <!-- Other UI elements -->
+    <!-- Other UI elements with animations -->
 </RelativeLayout>
