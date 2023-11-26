@@ -1,0 +1,1 @@
+Numerology is the belief that numbers have hidden meanings and spiritual significance that can reveal a person's identity, characteristics, and future. Each number represents a planet, such as Sun, Moon, Jupiter, Rahu, Venus, Ketu, Saturn, and Mars
